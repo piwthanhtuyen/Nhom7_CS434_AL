@@ -180,9 +180,9 @@
         <asp:Panel ID="pnlQR" runat="server" CssClass="qr-panel" Visible="false">
             <h3>Quét mã QR để thanh toán</h3>
             <asp:Image ID="imgQR" runat="server" Width="250" Height="250" />
-            <p>Ngân hàng: Vietcombank</p>
-            <p>Số tài khoản: 1054904961</p>
-            <p>Chủ tài khoản: Trần Thanh Thiên</p>
+            <p>Ngân hàng: VP Bank</p>
+            <p>Số tài khoản: 0355788840</p>
+            <p>Chủ tài khoản: Thuỷ Ngọc Khoa</p>
             <p>Nội dung: Đơn hàng #<asp:Label ID="lblOrderId" runat="server"></asp:Label></p>
         <!-- Nút khách xác nhận đã chuyển khoản -->
     <asp:Button ID="btnConfirmTransfer" runat="server" Text="Tôi đã chuyển khoản" CssClass="btnCheckout"
