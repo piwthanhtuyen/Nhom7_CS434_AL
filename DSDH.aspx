@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Xác nhận đơn hàng" Language="C#" MasterPageFile="~/Main.Master" AutoEventWireup="true" CodeBehind="OrderConfirmation.aspx.cs" Inherits="DoAn.OrderConfirmation" %>
+<%@ Page Title="Xác nhận đơn hàng" Language="C#" MasterPageFile="~/Main.Master" AutoEventWireup="true" CodeBehind="OrderConfirmation.aspx.cs" Inherits="DoAn.OrderConfirmation" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <style>
